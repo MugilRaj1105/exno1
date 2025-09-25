@@ -141,5 +141,6 @@ z
 <img width="542" height="495" alt="image" src="https://github.com/user-attachments/assets/0e5bfa80-6531-4727-bbe7-c205175be312" />
 
 
+
 # Result
 Thus we have cleaned the data and removed the outliers by detection using IQR and Z-score method.
